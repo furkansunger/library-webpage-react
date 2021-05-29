@@ -1,0 +1,135 @@
+{
+    "books": [
+        { 
+            "id": 1,
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "category": "Fantasy",
+            "image": "https://i.pinimg.com/originals/f3/25/d1/f325d1ca3bd73c8d0b1acf534badc671.jpg",
+            "description": "Aldous Huxley's profoundly important classic of world literature, Brave New World is a searching vision of an unequal, technologically-advanced future where humans are genetically bred, socially indoctrinated, and pharmaceutically anesthetized to passively uphold an authoritarian ruling order–all at the cost of our freedom, full humanity, and perhaps also our souls. “A genius [who] who spent his life decrying the onward march of the Machine” (The New Yorker), Huxley was a man of incomparable talents: equally an artist, a spiritual seeker, and one of history’s keenest observers of human nature and civilization. Brave New World, his masterpiece, has enthralled and terrified millions of readers, and retains its urgent relevance to this day as both a warning to be heeded as we head into tomorrow and as thought-provoking, satisfying work of literature. Written in the shadow of the rise of fascism during the 1930s, Brave New World likewise speaks to a 21st-century world dominated by mass-entertainment, technology, medicine and pharmaceuticals, the arts of persuasion, and the hidden influence of elites."
+        },
+        { 
+            "id": 2,
+            "title": "The Brain: The Story of You",
+            "author": "David Eagleman",
+            "category": "Science",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51vCtWrxt2L._AC_SY780_.jpg",
+            "description": "Locked in the silence and darkness of your skull, your brain fashions the rich narratives of your reality and your identity. Join renowned neuroscientist David Eagleman for a journey into the questions at the mysterious heart of our existence. What is reality? Who are “you”? How do you make decisions? Why does your brain need other people? How is technology poised to change what it means to be human?  In the course of his investigations, Eagleman guides us through the world of extreme sports, criminal justice, facial expressions, genocide, brain surgery, gut feelings, robotics, and the search for immortality.  Strap in for a whistle-stop tour into the inner cosmos. In the infinitely dense tangle of billions of brain cells and their trillions of connections, something emerges that you might not have expected to see in there: you. "
+        },
+        { 
+            "id": 3,
+            "title": "Ikigai: The Japanese Secret to a Long and Happy Life ",
+            "author": "Héctor García",
+            "category": "Education",
+            "image": "https://i.dr.com.tr/cache/600x600-0/originals/0001741792001-1.jpg",
+            "description": "According to the Japanese, everyone has an ikigai—a reason for living. And according to the residents of the Japanese village with the world’s longest-living people, finding it is the key to a happier and longer life. Having a strong sense of ikigai—the place where passion, mission, vocation, and profession intersect—means that each day is infused with meaning. It’s the reason we get up in the morning. It’s also the reason many Japanese never really retire (in fact there’s no word in Japanese that means retire in the sense it does in English): They remain active and work at what they enjoy, because they’ve found a real purpose in life—the happiness of always being busy. In researching this book, the authors interviewed the residents of the Japanese village with the highest percentage of 100-year-olds—one of the world’s Blue Zones. Ikigai reveals the secrets to their longevity and happiness: how they eat, how they move, how they work, how they foster collaboration and community, and—their best-kept secret—how they find the ikigai that brings satisfaction to their lives. And it provides practical tools to help you discover your own ikigai. Because who doesn’t want to find happiness in every day?"
+        },
+        { 
+            "id": 4,
+            "title": "Outliers: The Story of Success",
+            "author": "Malcolm Gladwell",
+            "category": "Education",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61sDFu75vAS._AC_UL600_SR372,600_.jpg",
+            "description": "In this stunning book, Malcolm Gladwell takes us on an intellectual journey through the world of 'outliers'—the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different?His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band. Brilliant and entertaining, Outliers is a landmark work that will simultaneously delight and illuminate."
+        },
+        { 
+            "id": 5,
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoyevsky",
+            "category": "Classical",
+            "image": "https://m.media-amazon.com/images/I/41AM6pjaZhL.jpg",
+            "description": "Crime and Punishment by Fyodor Dostoyevsky (translated by Constance Garnett). Published by Good Press. Good Press publishes a wide range of titles that encompasses every genre. From well-known classics & literary fiction and non-fiction to forgotten−or yet undiscovered gems−of world literature, we issue the books that need to be read. Each Good Press edition has been meticulously edited and formatted to boost readability for all e-readers and devices. Our goal is to produce eBooks that are user-friendly and accessible to everyone in a high-quality digital format."
+        },
+        { 
+            "id": 6,
+            "title": "The Brothers Karamazov",
+            "author": "Fyodor Dostoyevsky",
+            "category": "Classical",
+            "image": "https://m.media-amazon.com/images/I/51Bz-aHxQXL.jpg",
+            "description": "The Brothers Karamasov is a murder mystery, a courtroom drama, and an exploration of erotic rivalry in a series of triangular love affairs involving the “wicked and sentimental” Fyodor Pavlovich Karamazov and his three sons—the impulsive and sensual Dmitri; the coldly rational Ivan; and the healthy, red-cheeked young novice Alyosha. Through the gripping events of their story, Dostoevsky portrays the whole of Russian life, is social and spiritual striving, in what was both the golden age and a tragic turning point in Russian culture. This award-winning translation by Richard Pevear and Larissa Volokhonsky remains true to the verbal inventiveness of Dostoevsky’s prose, preserving the multiple voices, the humor, and the surprising modernity of the original. It is an achievement worthy of Dostoevsky’s last and greatest novel."
+        },
+        { 
+            "id": 7,
+            "title": "Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "category": "Crime",
+            "image": "https://m.media-amazon.com/images/I/51hguzArwqL.jpg",
+            "description": "Sherlock Holmes is a fictional detective of the late 19th and early 20th centuries, who first appeared in publication in 1887. He is the creation of Scottish born author and physician Sir Arthur Conan Doyle. A brilliant London-based detective, Holmes is famous for his intellectual prowess, and is renowned for his skillful use of deductive reasoning (somewhat mistakenly - see inductive reasoning) and astute observation to solve difficult cases. He is arguably the most famous fictional detective ever created, and is one of the best known and most universally recognizable literary characters in any genre."
+        },
+        { 
+            "id": 8,
+            "title": "The Country of White Lilies",
+            "author": "Grigory Petrov",
+            "category": "Education",
+            "image": "https://m.media-amazon.com/images/I/51i5KgASEcL.jpg",
+            "description": "During most of Finland’s history, it had been ruled by different countries. The first instance of this was the Treaty of Nöteborg in 1323. This treaty was between Sweden and the Novgorod Republic and it established their borders. After the treaty, the majority of Finland became a part of Sweden. From 1323 through 1808, the majority of Finland was a part of Sweden. After 1808, Russia captured the region of Finland from Sweden. Russia captured the region of Finland from 1808 through 1809. Then, in 1906, Finland had its own parliament. Although, Russia recognized Finland’s independence on December 31, 1917. In 1906, Finland had universal and equal right to vote which also applied to women. Then, in August of 1939, Finland went under Soviet Union influence. Throughout Finland's history, Finland was not independent very often. Although, when Finland became independent, a man named Johan Vilhelm Snellman advocated and supported the development of Finnish culture and the development of the country. Snellman wanted Finland to have full independence and its own culture. Snellman was born on May 12, 1806 in Sweden. He was born after the establishment of semi-independent Finland. Snellman was a philosopher, statesman, and a journalist. He taught at a university in Helsinki. Snellman wanted Finland to be advanced in education and the arts. Snellman had told the young Finnish people that, “Your success in football does not make me happy! Young Finnish like you not to beat Germans, English, Frenchs, Hungarians by shooting to the ball; Instead of it, with your mind, your heart, science, craft, trade, carpentry I would love to defeat them to take your homeland forward with your willing.” This book explains Snellman’s ideas on developing a newly growing country. It focuses on increasing the quality of education and the school environment. This book became very popular among developing countries. It was first written in Serbia in 1923 under the title “Zidari of Belly” which translates to “Creators of Life”. It was next printed in Bulgarian in 1925 under the title “In the Country of White Lilies”. In Bulgarian, the book has gone through 14 editions. The book was also printed in Turkish in 1928. In Turkish, the book has gone through 16 editions. The first president of Turkey, Mustafa Kemal Atatürk, knew that this book held valuable information so he made all public employees read the book, he put it into the school curriculum, and made Turkish officers study the book. This book was then published in Russia in 2004 under the title “Finland, the Country of White Lilies”. Today marks the day that this book was translated to English by Atatürk Research Center CT. (July 2020)"
+        }
+    ],
+
+    "authors": [
+        {
+            "id": 1,
+            "author": "Aldous Huxley",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Aldous_Huxley_psychical_researcher.png",
+            "biyo": "Born into the prominent Huxley family, he graduated from Balliol College, Oxford, with an undergraduate degree in English literature. Early in his career, he published short stories and poetry and edited the literary magazine Oxford Poetry, before going on to publish travel writing, satire, and screenplays. He spent the latter part of his life in the United States, living in Los Angeles from 1937 until his death.[7] By the end of his life, Huxley was widely acknowledged as one of the foremost intellectuals of his time.[8] He was nominated for the Nobel Prize in Literature nine times[9] and was elected Companion of Literature by the Royal Society of Literature in 1962."
+        },
+        {
+            "id": 2,
+            "author": "Grigory Petrov",
+            "photo": "https://api.wannart.com/storage/post/2018/05/Grigoriy-Petrov-wannart-1.jpg",
+            "biyo": "Petrov was born in Yamburg (now Kingisepp, Leningrad Oblast) and graduated from St. Petersburg Theological Seminary in 1886 and St. Petersburg Theological Academy in 1891. From 1895 through to 1906, he served as a prior of the Church of Mikhaylovsky Ordnance Academy; while in 1902–1904 he also worked as a lecturer of theology at the Polytechnical Institute. He wrote books, brochures and articles where he advocated Christian socialism. In 1899–1917, he contributed to Russkoe slovo newspaper. In 1901–1903, he took part in various religious and philosophic meetings. In 1905, he joined the liberal renovated church movement in opposition to the Russian Orthodox Church, and published Pravda Bozhiya newspaper in 1906. In 1907, he was elected Deputy of the Second State Duma as a member of the Constitutional Democratic Party. The same year following his critical letter addressed to Metropolitan Antony he was banned from his ministry and sent for discipline to the Cheremenetsky Monastery. He was defrocked in 1908, and consequently was banned from living in St. Petersburg. He travelled around the country giving lectures. Petrov welcomed the February Revolution of 1917, although his attitude towards the Bolshevik overturn was negative. In 1920, he emigrated and lived in Bulgaria and Serbia. He died in Paris and was buried in Munich.[1] Aziz Sami translated some Petrov's works to Arabic from Turkish."
+        },
+        {
+            "id": 3,
+            "author": "Arthur Conan Doyle",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Arthur_Conan_Doyle_by_Walter_Benington%2C_1914.png",
+            "biyo": "Sir Arthur Ignatius Conan Doyle KStJ DL (22 May 1859 – 7 July 1930) was a British writer and physician. He created the character Sherlock Holmes in 1887 for A Study in Scarlet, the first of four novels and fifty-six short stories about Holmes and Dr. Watson. The Sherlock Holmes stories are considered milestones in the field of crime fiction. Doyle was a prolific writer; other than Holmes stories, his works include fantasy and science fiction stories about Professor Challenger and humorous stories about the Napoleonic soldier Brigadier Gerard, as well as plays, romances, poetry, non-fiction and historical novels. One of Doyle's early short stories, J. Habakuk Jephson's Statement (1884), helped to popularise the mystery of the Mary Celeste."
+        },
+        {
+            "id": 4,
+            "author": "David Eagleman",
+            "photo": "https://img.apmcdn.org/0aeebf0ebdf16b547e36fb0fbf60052aa369f780/portrait/cf67dc-20120312-davideagleman.jpg",
+            "biyo": "David Eagleman (born April 25, 1971) is an American neuroscientist, author, and science communicator. He teaches neuroscience at Stanford University[1] and is CEO and co-founder of Neosensory, a company that develops devices for sensory substitution.[2] He also directs the non-profit Center for Science and Law, which seeks to align the legal system with modern neuroscience[3] and is Chief Science Officer and co-founder of BrainCheck, a digital cognitive health platform used in medical practices and health systems.[4] He is known for his work on brain plasticity,[5] time perception,[6] synesthesia,[7] and neurolaw.[8]"
+        },
+        {
+            "id": 5,
+            "author": "Fyodor Dostoyevsky",
+            "photo": "https://i.pinimg.com/originals/01/cb/00/01cb00305899bbdb38c9c7e79dc4b566.jpg",
+            "biyo": "Fyodor Mikhailovich Dostoevsky[a] (/ˌdɒstəˈjɛfski, ˌdʌs-/;[1] Russian: Фёдор Михайлович Достоевский[b], tr. Fyódor Mikháylovich Dostoyévskiy, IPA: [ˈfʲɵdər mʲɪˈxajləvʲɪdʑ dəstɐˈjɛfskʲɪj] (About this soundlisten); 11 November 1821 – 9 February 1881[2][c]), sometimes transliterated as Dostoyevsky, was a Russian novelist, philosopher, short story writer, essayist, and journalist. Dostoevsky's literary works explore human psychology in the troubled political, social, and spiritual atmospheres of 19th-century Russia, and engage with a variety of philosophical and religious themes. His most acclaimed novels include Crime and Punishment (1866), The Idiot (1869), Demons (1872), and The Brothers Karamazov (1880). Dostoevsky's body of works consists of 12 novels, four novellas, 16 short stories, and numerous other works. Many literary critics rate him as one of the greatest psychological novelists in world literature.[3] His 1864 novella Notes from Underground is considered to be one of the first works of existentialist literature."
+        },
+        {
+            "id": 6,
+            "author": "Héctor García",
+            "photo": "https://images-na.ssl-images-amazon.com/images/S/amzn-author-media-prod/8p4sbik23aam390dsjtatlb3mq.jpg",
+            "biyo": "Héctor García was born in Spain and worked at CERN in Switzerland before moving to Japan, his home for 16 years and counting. In Tokyo, when he is not writing his next book, he makes a living in the IT industry. His popular blog led to his international bestseller A Geek In Japan. He is the author of the bestselling Ikigai: The Japanese Secret to a Long and Happy Life; translated to 57 languages, has the strange honor of being the most translated book ever originally written in Spanish language. To this day he has published seven books, his latest one is: The Book of Ichigo Ichie."
+        },
+        {
+            "id": 7,
+            "author": "Malcolm Gladwell",
+            "photo": "https://poetsandquants.com/wp-content/uploads/sites/5/2011/02/Gladwell.jpg",
+            "biyo": "Malcolm Timothy Gladwell CM (born 3 September 1963) is an English-born Canadian journalist, author, and public speaker.[1] He has been a staff writer for The New Yorker since 1996. He has published seven books: The Tipping Point: How Little Things Can Make a Big Difference (2000); Blink: The Power of Thinking Without Thinking (2005); Outliers: The Story of Success (2008); What the Dog Saw: And Other Adventures (2009), a collection of his journalism; David and Goliath: Underdogs, Misfits, and the Art of Battling Giants (2013); Talking To Strangers: What We Should Know about the People We Don't Know (2019) and The Bomber Mafia: A Dream, a Temptation, and the Longest Night of the Second World War (2021). His first five books were on The New York Times Best Seller list. He is also the host of the podcast Revisionist History and co-founder of the podcast company Pushkin Industries."
+        }
+    ],
+    "category": [
+        {
+            "id": 1,
+            "category":  "Classical"
+        },
+        {
+            "id": 2,
+            "category": "Crime"
+        },
+        {
+            "id": 3,
+            "category": "Education"
+        },
+        {
+            "id": 4,
+            "category": "Fantasy"
+        },
+        {
+            "id": 5,
+            "category": "Science"
+        }
+    ]
+}
